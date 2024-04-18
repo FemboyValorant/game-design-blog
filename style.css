@@ -1,0 +1,30 @@
+html {
+    background-color: lavender;
+    color: #07003b;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
+
+.author {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 18px;
+    width: 800px;
+    line-height: 200%;
+    text-indent: 50px;
+}
+
+.heading {
+    margin-top: 50px;
+}
