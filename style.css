@@ -25,6 +25,31 @@ p {
     text-indent: 50px;
 }
 
+.cont {
+    text-indent: 0px;
+}
+
 .heading {
     margin-top: 50px;
+}
+
+img {
+    width: 800px;
+}
+
+.caption {
+    font-size:18px;
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    width: 800px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
 }
